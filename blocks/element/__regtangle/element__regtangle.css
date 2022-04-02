@@ -1,0 +1,6 @@
+.element__regtangle {
+  height: 100%;
+  border-radius: 10px;
+  background-color: white;
+  position: relative;
+}
